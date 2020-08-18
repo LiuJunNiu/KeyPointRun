@@ -1,0 +1,3 @@
+rootProject.name = "KeyPointRun"
+include ':app'
+include ':keypoint'
